@@ -1,4 +1,4 @@
-# eCommerce Website
+# ECommerce Website
 
 This is a simple front-end eCommerce website built using HTML, CSS, and JavaScript. It showcases a clean and responsive design for an online shopping platform.
 
